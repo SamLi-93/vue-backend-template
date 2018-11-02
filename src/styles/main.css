@@ -1,0 +1,10 @@
+.el-dialog__title {
+  font-weight: bold;
+  font-size: 16px;
+}
+.el-dialog__body {
+  padding-right: 40px;
+}
+.el-dialog {
+  width: 40%;
+}
